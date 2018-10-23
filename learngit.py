@@ -5,4 +5,5 @@ import os,sys
 print sys.argv[0]
 print os.path.dirname(os.path.abspath(__file__))
 
-print "git"
+print "git "
+print "the third verison of this file"
